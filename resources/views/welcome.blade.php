@@ -176,8 +176,8 @@
                     <h6 class="sub-title main-color">Acerca de mi</h6>
                     <h2 class="title">Experiencia</h2>
                     <p class="paragraph">Tengo 4 años y medio de experiencia en el desarrollo web con distintas metodologías 
-                        y tecnologías a utilizar. Me desempeño cómo desarrollador de software con enfoque en soluciones creativas.
-                        Me considero un defensor del codigo limpio y detallado y la experiencia adecuada del usuario. </p>
+                        y tecnologías a utilizar. Me desempeño como desarrollador de software con enfoque en soluciones creativas.
+                        Me considero un defensor del código limpio y detallado y la experiencia adecuada del usuario. </p>
                 </div>
             </div>
 
