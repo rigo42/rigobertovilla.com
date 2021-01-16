@@ -24,6 +24,16 @@
     <link href="{{ asset('assets/client') }}/vendor/css/cubeportfolio.min.css" rel="stylesheet">
     <!-- Style Sheet -->
     <link href="{{ asset('assets/client') }}/resume/css/style.css" rel="stylesheet">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XDHPQ7EZQK"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-XDHPQ7EZQK');
+    </script>
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="90">
