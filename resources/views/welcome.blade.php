@@ -70,7 +70,7 @@
                     <a class="nav-link scroll" href="#services">Servicios</a>
                     <a class="nav-link scroll" href="#portfolio">Portafolio</a>
                     <a class="nav-link scroll" href="#client">Precios</a>
-                    <a class="nav-link scroll" href="#blog">Atrevete</a>
+                    <a class="nav-link scroll" href="#blog">Atrévete</a>
                     <a class="nav-link scroll" href="#contact">Contacto</a>
                 </div>
             </div>
@@ -107,7 +107,7 @@
                         <a class="nav-link scroll" href="#client">Precios</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#blog">Atrevete</a>
+                        <a class="nav-link scroll" href="#blog">Atrévete</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link scroll" href="#contact">Contacto</a>
@@ -117,11 +117,13 @@
 
             <div class="side-footer text-white w-100">
                 <ul class="social-icons-simple">
-                    <li><a class="facebook-text-hvr" href="https://www.facebook.com/rigoberto.villa.5623"><i class="fab fa-facebook-f"></i> </a> </li>
-                    <li><a class="twitter-text-hvr" href="https://www.linkedin.com/in/rigoberto-villa-rodr%C3%ADguez-693b0b176/"><i class="fab fa-linkedin-in"></i> </a> </li>
-                    <li><a class="instagram-text-hvr" href="https://www.instagram.com/rigobertovilla42/"><i class="fab fa-instagram"></i> </a> </li>
+                    <li><a target="_blank" class="facebook-text-hvr" href="https://www.facebook.com/rigoberto.villa.5623"><i class="fab fa-facebook-f"></i> </a> </li>
+                    <li><a target="_blank" class="twitter-text-hvr" href="https://www.linkedin.com/in/rigoberto-villa-rodr%C3%ADguez-693b0b176/"><i class="fab fa-linkedin-in"></i> </a> </li>
+                    <li><a target="_blank" class="instagram-text-hvr" href="https://www.instagram.com/rigobertovilla42/"><i class="fab fa-instagram"></i> </a> </li>
+                    <li><a target="_blank" class="instagram-text-hvr" href="https://github.com/rigo42/"><i class="fab fa-github"></i> </a> </li>
+                    
                 </ul>
-                <p class="text-white">&copy; 2021 Todos los derechos reservados. Desarrollada por Rigoberto Villa Rodríguez. <a target="_blank" href="{{ asset('aviso_privacidad.html') }}">Aviso de privasidad</a></p>
+                <p class="text-white">&copy; 2021 Todos los derechos reservados. Desarrollada por Rigoberto Villa Rodríguez. <a target="_blank" href="{{ asset('aviso_privacidad.html') }}">Aviso de privacidad</a></p>
             </div>
         </div>
     </div>
@@ -187,14 +189,14 @@
                         <div class="feature-item">
                             <i class="fa fa-globe  f-icon"></i>
                             <h5 class="title">Páginas web</h5>
-                            <p>Hermosas y responsivas páginas web informativas para tí o tu negocio. Date a conocer profecionalmente con una página web.</p>
+                            <p>Hermosas y responsivas páginas web informativas para tí o tu negocio. Date a conocer profesionalmente con una página web.</p>
                             <a href="#contact" class="lni-arrow-right r-icon"></a>
                         </div>
                         <!-- Feature Item -->
                         <div class="feature-item">
                             <i class="fa fa-globe f-icon"></i>
                             <h5 class="title">One Page</h5>
-                            <p>¿No sabes lo que es una One Page? ¡Podría ser perfecta pata tí! ya que es una sola página demostrativa, igual que esta misma One Page. 😎</p>
+                            <p>¿No sabes lo que es una One Page? ¡Podría ser perfecta para tí! ya que es una sola página demostrativa, igual que esta misma One Page. 😎</p>
                             <a href="#contact" class="lni-arrow-right r-icon"></a>
                         </div>
                     </div>
@@ -324,7 +326,7 @@
                 <div class="services-about">
                     <img class="service-image" src="{{ asset('assets/client') }}/resume/img/service/service.jpg" alt="image">
                     <div class="content">
-                        <p>¡Hola! te presento mis servicios y habilidades a lo largo de mi carrera profecional. <br>
+                        <p>¡Hola! te presento mis servicios y habilidades a lo largo de mi carrera profesional. <br>
                         Desarrollado y creados con la tecnologías de Laravel, Html, Css3, Bootstrap, Metodologías agiles (Scrum) para entregar a tiempo y forma. <br>
                         El tiempo puede ser variado dependiendo de la complejidad del mismo proyecto.
                         </p>
@@ -346,7 +348,7 @@
         <!--Heading-->
         <div class="row wow fadeIn">
             <div class="heading-area my-5 text-center w-100">
-                <h6 class="sub-title">Conoce algunos de mis proyectos profecionales</h6>
+                <h6 class="sub-title">Conoce algunos de mis proyectos profesionales</h6>
                 <h2 class="title m-0">Portafolio</h2>
            </div>
         </div>
@@ -498,7 +500,7 @@
                 <div class="heading-area">
                     <h6 class="sub-title main-color">Cotización</h6>
                     <h2 class="title">Conoce los precios</h2>
-                    <p class="paragraph">Los precios pueden veriar dependiendo de la complejidad del proyecto.</p>
+                    <p class="paragraph">Los precios pueden variar dependiendo de la complejidad del proyecto.</p>
                 </div>
                 <div id="client-nav"></div>
             </div>
@@ -726,18 +728,20 @@
             <div class="col-lg-6">
                 <div class="footer-social text-lg-left">
                     <ul class="list-unstyled">
-                        <li><a class="wow fadeInUp" href="https://www.facebook.com/rigoberto.villa.5623"><i aria-hidden="true"
+                        <li><a target="_blank" class="wow fadeInUp" href="https://www.facebook.com/rigoberto.villa.5623"><i aria-hidden="true"
                                                                                   class="fab fa-facebook-f"></i></a></li>
-                        <li><a class="wow fadeInDown" href="https://www.linkedin.com/in/rigoberto-villa-rodr%C3%ADguez-693b0b176/"><i aria-hidden="true"
+                        <li><a target="_blank" class="wow fadeInDown" href="https://www.linkedin.com/in/rigoberto-villa-rodr%C3%ADguez-693b0b176/"><i aria-hidden="true"
                                                                                     class="fab fa-linkedin-in"></i></a></li>
-                        <li><a class="wow fadeInUp" href="https://www.instagram.com/rigobertovilla42/"><i aria-hidden="true"
+                        <li><a target="_blank" class="wow fadeInUp" href="https://www.instagram.com/rigobertovilla42/"><i aria-hidden="true"
                                                                                   class="fab fa-instagram"></i></a></li>
+                        <li><a target="_blank" class="wow fadeInUp" href="https://github.com/rigo42/"><i aria-hidden="true"
+                                                                                    class="fab fa-github"></i></a></li>
                     </ul>
                 </div>
             </div>
             <!--Text-->
             <div class="col-lg-6 text-lg-right">
-                <p class="company-about fadeIn">© 2021 Todos los derechos reservados. Desarrollada por Rigoberto Villa Rodríguez. <a target="_blank" href="{{ asset('aviso_privacidad.html') }}">Aviso de privasidad</a>
+                <p class="company-about fadeIn">© 2021 Todos los derechos reservados. Desarrollada por Rigoberto Villa Rodríguez. <a target="_blank" href="{{ asset('aviso_privacidad.html') }}">Aviso de privacidad</a>
                 </p>
             </div>
         </div>
@@ -750,27 +754,12 @@
 <!--Scroll Top End-->
 
 <!-- JavaScript -->
-<script src="{{ asset('assets/client') }}/vendor/js/bundle.min.js"></script>
+<script src="{{ asset('assets/client') }}/vendor/js/main.min.js"></script>
 <!-- Plugin Js -->
 <script src="{{ asset('assets/client') }}/vendor/js/jquery.appear.js"></script>
-<script src="{{ asset('assets/client') }}/vendor/js/jquery.fancybox.min.js"></script>
 <script src="{{ asset('assets/client') }}/vendor/js/owl.carousel.min.js"></script>
 <script src="{{ asset('assets/client') }}/vendor/js/parallaxie.min.js"></script>
-<script src="{{ asset('assets/client') }}/vendor/js/wow.min.js"></script>
 <script src="{{ asset('assets/client') }}/vendor/js/jquery.cubeportfolio.min.js"></script>
-<!-- REVOLUTION JS FILES -->
-<script src="{{ asset('assets/client') }}/vendor/js/jquery.themepunch.tools.min.js"></script>
-<script src="{{ asset('assets/client') }}/vendor/js/jquery.themepunch.revolution.min.js"></script>
-<!-- SLIDER REVOLUTION EXTENSIONS -->
-<script src="{{ asset('assets/client') }}/vendor/js/extensions/revolution.extension.actions.min.js"></script>
-<script src="{{ asset('assets/client') }}/vendor/js/extensions/revolution.extension.carousel.min.js"></script>
-<script src="{{ asset('assets/client') }}/vendor/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="{{ asset('assets/client') }}/vendor/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="{{ asset('assets/client') }}/vendor/js/extensions/revolution.extension.migration.min.js"></script>
-<script src="{{ asset('assets/client') }}/vendor/js/extensions/revolution.extension.navigation.min.js"></script>
-<script src="{{ asset('assets/client') }}/vendor/js/extensions/revolution.extension.parallax.min.js"></script>
-<script src="{{ asset('assets/client') }}/vendor/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="{{ asset('assets/client') }}/vendor/js/extensions/revolution.extension.video.min.js"></script>
 
 <!-- custom script-->
 <script src="{{ asset('assets/client') }}/resume/js/script.js"></script>
